@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.14"
-     inkscape:cx="253.07018"
-     inkscape:cy="246.92982"
+     inkscape:zoom="0.285"
+     inkscape:cx="-773.68421"
+     inkscape:cy="359.64912"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -38,7 +38,7 @@
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
+     inkscape:bbox-nodes="false"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
@@ -82,10 +82,10 @@
        id="linearGradient18231"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5484609,0,0,0.89666748,-140.22588,26.49637)"
-       x1="351.30814"
-       y1="-2.1903737"
-       x2="160.3914"
-       y2="515.13287" />
+       x1="344.8559"
+       y1="-2.4717507"
+       x2="166.8687"
+       y2="515.41504" />
   </defs>
   <g
      inkscape:label="Layer 1"
